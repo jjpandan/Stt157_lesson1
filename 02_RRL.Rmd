@@ -1,0 +1,3 @@
+# Review of Related Literature
+
+The researchers explored analysis on trends of published scientific research to investigate the evolution of scientific knowledge in selected subjects areas [@li2009global]
